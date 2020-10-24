@@ -3,7 +3,7 @@
 
 Multi-armed bandits (MABs) are a simple but powerful framework for sequential decision making under uncertainty.
 
-This project aims to build four Multi-armed bandits (MABs) powerful algorithms from scratch. 
+This project aims to build four powerful Multi-armed bandits (MABs) algorithms from scratch. 
 
 The following algorithms are included: 
 1.  Epsilon greedy (ε-greedy) MAB
